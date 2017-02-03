@@ -27,6 +27,8 @@ function howdy() {
 howdy();
 console.log(howdy());
 
+
+// function expression
 var numba = function (string) {
 
     if (string.length < 7) {
@@ -41,3 +43,17 @@ var numba = function (string) {
 console.log(numba('7'));
 console.log(numba('seventy'));
 console.log(numba('university'));
+
+
+// function two
+function inception(display, favMovie) {
+    display(favMovie);
+}
+
+function display() {
+    console.log(favMovie + ' ' + 'is a fantastic movie.');
+}
+
+var favMovie = 'Legally Blonde';
+
+inception(display, favMovie);
