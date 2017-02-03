@@ -1,4 +1,5 @@
-
+# GitHub Repo
+[See repository here] (https://github.com/bbarta/hw_javascript_barta_brianne)
 
 # Resources
 1. [JavaScript Function Definitions](http://www.w3schools.com/js/js_function_definition.asp)
@@ -14,4 +15,6 @@ I was struggling with arrays and objects, especially putting an object inside an
 I reviewed the list of deductions for this project and in the syllabus.
 
 # Comments
-Still getting the hang of making commits and when to do them. I had gone through the entire assignment with only the initial commit, but after reading the deducations document, I started over and committed frequently. I get it now! 
+Still getting the hang of making commits and when to do them. I had gone through the entire assignment with only the initial commit, but after reading the deducations document, I started over and committed frequently. I get it now!
+
+Somehow I accidentally recommitted my second commit "add arrays branch and start main.js". I don't know how I did this, and I can't figure out how to remove it. I somehow added it to the presidents branch. Help please!
