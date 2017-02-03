@@ -18,3 +18,11 @@ var presidents = [
 
 
 console.log(presidents[2].firstName + ' ' + presidents[2].lastName);
+
+// functions
+function howdy() {
+    return 'Brianne Barta says hello!';
+}
+
+howdy();
+console.log(howdy());
